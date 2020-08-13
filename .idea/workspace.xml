@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1g196IxdNVC85LUoUQmjs66qIVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\brunsker\source\Database" />
+      <recent name="C:\wamp64\www\brunsker\source" />
+      <recent name="C:\wamp64\www\brunsker\Source" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="" />
+      <created>1597271054844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597271054844</updated>
+      <workItem from="1597271055897" duration="13171000" />
+      <workItem from="1597349633018" duration="2801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="42" key="#Inspections" timestamp="1597349991992">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="138" y="42" key="#Inspections/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597349991992" />
+    <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597280395872">
+      <screen x="1024" y="-312" width="1920" height="1040" />
+    </state>
+    <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597280395872" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597351308293">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="1789" y="-76" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597282333161" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597351308293" />
+    <state x="1760" y="120" key="ComposerInitDialogKey" timestamp="1597271128062">
+      <screen x="1024" y="-312" width="1920" height="1040" />
+    </state>
+    <state x="1760" y="120" key="ComposerInitDialogKey/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597271128062" />
+    <state x="1808" y="-69" key="NewPhpClassDialog" timestamp="1597287770554">
+      <screen x="1024" y="-312" width="1920" height="1040" />
+    </state>
+    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597275889915" />
+    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597287770554" />
+    <state x="1818" y="131" key="NewPhpFileDialog" timestamp="1597274197897">
+      <screen x="1024" y="-312" width="1920" height="1040" />
+    </state>
+    <state x="1818" y="131" key="NewPhpFileDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597274197897" />
+    <state x="13" y="9" key="SettingsEditor" timestamp="1597350362751">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="13" y="9" key="SettingsEditor/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597350362751" />
+  </component>
+</project>

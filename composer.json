@@ -1,0 +1,27 @@
+{
+  "name": "IsraelSilva1310/brunsker",
+  "description": "Test Dev Jr Brunsker",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Israel Silva",
+      "email": "israelsilva1310@gmail.com",
+      "role": "Developer Jr",
+      "homepage": "https://israelcasilva.com.br"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "source\\": "source/"
+    }
+  },
+  "require": {
+    "php": "~7.2",
+    "phpmailer/phpmailer": "~v6.0",
+    "ext-pdo": "*"
+  }
+}
