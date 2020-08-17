@@ -2,10 +2,8 @@
 
 require __DIR__ . "/vendor/autoload.php";
 
-use source\Database\Connect;
+$viacep = new FlyingLuscas\ViaCEP\ZipCode();
 
-$pdo1 = Connect::getInstance();
-
-$pdo2 = Connect::getInstance();
-
-//var_dump($pdo1, $pdo2);
+$address = $viacep->findByCep('33933560')->toArray();
+$address['number'] = 123;
+var_dump($address);

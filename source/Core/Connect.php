@@ -1,9 +1,9 @@
 <?php
 
-namespace source\Database;
+namespace source\Core;
 
-use \PDO;
-use \PDOException;
+use PDO;
+use PDOException;
 
 class Connect
 {

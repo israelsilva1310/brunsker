@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="" />
+    <list default="true" id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/docs/Dump/brunsker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/Address.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/Entity/immobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/immobile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Support/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/brunsker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/brunsker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Database/Connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/Core/Connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
@@ -20,13 +41,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/flyingluscas/viacep-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1g196IxdNVC85LUoUQmjs66qIVf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,17 +74,38 @@
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/docs/Dump/brunsker.sql" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/config/docs/Dump/brunsker.sql" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\brunsker\source\Database" />
+      <recent name="C:\wamp64\www\brunsker\source\Core" />
       <recent name="C:\wamp64\www\brunsker\source" />
+      <recent name="C:\wamp64\www\brunsker\source\Database" />
       <recent name="C:\wamp64\www\brunsker\Source" />
     </key>
   </component>
+  <component name="RunManager" selected="PHP Script.Connect.php">
+    <configuration name="brunsker.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/config/docs/Dump/brunsker.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="Connect.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/source/Core/Connect.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Connect.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Israel Silva\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="" />
@@ -54,43 +114,98 @@
       <option name="presentableId" value="Default" />
       <updated>1597271054844</updated>
       <workItem from="1597271055897" duration="13171000" />
-      <workItem from="1597349633018" duration="2801000" />
+      <workItem from="1597349633018" duration="9607000" />
+      <workItem from="1597362450729" duration="873000" />
+      <workItem from="1597435667429" duration="8019000" />
+      <workItem from="1597587354756" duration="761000" />
+      <workItem from="1597594283249" duration="6037000" />
+      <workItem from="1597611764938" duration="1600000" />
+      <workItem from="1597613750986" duration="3264000" />
+      <workItem from="1597675369992" duration="4080000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="138" y="42" key="#Inspections" timestamp="1597349991992">
+    <state x="138" y="42" key="#Inspections" timestamp="1597614600559">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
+    <state x="138" y="42" key="#Inspections/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597614600559" />
     <state x="138" y="42" key="#Inspections/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597349991992" />
-    <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597280395872">
-      <screen x="1024" y="-312" width="1920" height="1040" />
-    </state>
-    <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597280395872" />
-    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597351308293">
+    <state x="104" y="0" width="816" height="728" key="#Intentions" timestamp="1597354509314">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
+    <state x="104" y="0" width="816" height="728" key="#Intentions/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597354509314" />
+    <state x="0" y="14" width="1024" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597437276594">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="14" width="1024" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597437276594" />
+    <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597280395872" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597683983483">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597437572477" />
     <state x="1789" y="-76" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597282333161" />
-    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597351308293" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597683983483" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597356859507" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597613522926">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597613522926" />
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1597442934746">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597442934746" />
     <state x="1760" y="120" key="ComposerInitDialogKey" timestamp="1597271128062">
       <screen x="1024" y="-312" width="1920" height="1040" />
     </state>
     <state x="1760" y="120" key="ComposerInitDialogKey/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597271128062" />
-    <state x="1808" y="-69" key="NewPhpClassDialog" timestamp="1597287770554">
-      <screen x="1024" y="-312" width="1920" height="1040" />
-    </state>
-    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597275889915" />
-    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597287770554" />
-    <state x="1818" y="131" key="NewPhpFileDialog" timestamp="1597274197897">
-      <screen x="1024" y="-312" width="1920" height="1040" />
-    </state>
-    <state x="1818" y="131" key="NewPhpFileDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597274197897" />
-    <state x="13" y="9" key="SettingsEditor" timestamp="1597350362751">
+    <state x="92" y="92" width="840" height="544" key="DiffContextDialog" timestamp="1597361198830">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="13" y="9" key="SettingsEditor/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597350362751" />
+    <state x="92" y="92" width="840" height="544" key="DiffContextDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361198830" />
+    <state x="292" y="119" key="FileChooserDialogImpl" timestamp="1597361128872">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="119" key="FileChooserDialogImpl/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361128872" />
+    <state x="336" y="284" key="Github.CreateGistDialog" timestamp="1597361019006">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="336" y="284" key="Github.CreateGistDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361019006" />
+    <state x="418" y="170" key="NewPhpClassDialog" timestamp="1597683889536">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597275889915" />
+    <state x="418" y="170" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597614479064" />
+    <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597287770554" />
+    <state x="418" y="170" key="NewPhpClassDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597683889536" />
+    <state x="418" y="170" key="NewPhpClassDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597362620413" />
+    <state x="423" y="310" key="NewPhpFileDialog" timestamp="1597615046094">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="1818" y="131" key="NewPhpFileDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597274197897" />
+    <state x="423" y="310" key="NewPhpFileDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597615046094" />
+    <state x="13" y="9" key="SettingsEditor" timestamp="1597599882708">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="13" y="9" key="SettingsEditor/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597599882708" />
+    <state x="13" y="9" key="SettingsEditor/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361402504" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597614607230">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597614607230" />
+    <state x="355" y="67" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597354567732">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="355" y="67" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597354567732" />
+    <state x="175" y="49" key="search.everywhere.popup" timestamp="1597356628302">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" key="search.everywhere.popup/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597356628302" />
   </component>
 </project>
