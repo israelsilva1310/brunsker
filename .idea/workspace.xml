@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a684ad88-42d7-4e81-a18b-f96de43cf90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/docs/Dump/brunsker.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Core/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Models/Address.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Models/Entity/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Models/Entity/immobile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Models/immobile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/Support/Config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/brunsker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/brunsker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/Models/Entity/address.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Database/Connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/Core/Connect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Models/Address.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/Models/Address.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Models/immobile.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/Models/immobile.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +79,11 @@
       <method v="2" />
     </configuration>
     <configuration name="Connect.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/source/Core/Connect.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -121,17 +111,30 @@
       <workItem from="1597594283249" duration="6037000" />
       <workItem from="1597611764938" duration="1600000" />
       <workItem from="1597613750986" duration="3264000" />
-      <workItem from="1597675369992" duration="4080000" />
+      <workItem from="1597675369992" duration="7404000" />
     </task>
+    <task id="LOCAL-00001" summary="immobiles">
+      <created>1597684158993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597684158993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="immobiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="immobiles" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="19" key="#CLI_Interpreters" timestamp="1597700153274">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="92" y="19" key="#CLI_Interpreters/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597700153274" />
     <state x="138" y="42" key="#Inspections" timestamp="1597614600559">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
@@ -146,21 +149,26 @@
     </state>
     <state x="0" y="14" width="1024" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597437276594" />
     <state x="1576" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597280395872" />
-    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597683983483">
+    <state x="291" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597700115875">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="291" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597700115875" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1597684817821">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597437572477" />
     <state x="1789" y="-76" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597282333161" />
-    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597683983483" />
+    <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597684817821" />
     <state x="408" y="146" key="#com.intellij.ide.util.MemberChooser/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597356859507" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597613522926">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597613522926" />
-    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1597442934746">
+    <state x="137" y="0" key="CommitChangelistDialog2" timestamp="1597684157848">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597442934746" />
+    <state x="137" y="0" key="CommitChangelistDialog2/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597684157848" />
     <state x="1760" y="120" key="ComposerInitDialogKey" timestamp="1597271128062">
       <screen x="1024" y="-312" width="1920" height="1040" />
     </state>
@@ -177,13 +185,13 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="336" y="284" key="Github.CreateGistDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361019006" />
-    <state x="418" y="170" key="NewPhpClassDialog" timestamp="1597683889536">
+    <state x="418" y="170" key="NewPhpClassDialog" timestamp="1597684466275">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040/-1360.0.1360.728@1024.-312.1920.1040" timestamp="1597275889915" />
     <state x="418" y="170" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597614479064" />
     <state x="1808" y="-69" key="NewPhpClassDialog/0.0.1024.728/1024.-312.1920.1040@1024.-312.1920.1040" timestamp="1597287770554" />
-    <state x="418" y="170" key="NewPhpClassDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597683889536" />
+    <state x="418" y="170" key="NewPhpClassDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597684466275" />
     <state x="418" y="170" key="NewPhpClassDialog/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597362620413" />
     <state x="423" y="310" key="NewPhpFileDialog" timestamp="1597615046094">
       <screen x="0" y="0" width="1024" height="728" />
@@ -195,10 +203,11 @@
     </state>
     <state x="13" y="9" key="SettingsEditor/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597599882708" />
     <state x="13" y="9" key="SettingsEditor/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597361402504" />
-    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597614607230">
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597684066777">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.-312.1920.1040@0.0.1024.728" timestamp="1597614607230" />
+    <state x="104" y="97" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1597684066777" />
     <state x="355" y="67" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597354567732">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
@@ -207,5 +216,29 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="175" y="49" key="search.everywhere.popup/1024.-312.1920.1040/0.0.1024.728@0.0.1024.728" timestamp="1597356628302" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/source/Models/User.php</url>
+          <line>25</line>
+          <properties>
+            <option name="className" value="\source\Models\User" />
+            <option name="methodName" value="bootstrap" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/source/Models/User.php</url>
+          <line>39</line>
+          <properties>
+            <option name="className" value="\source\Models\User" />
+            <option name="methodName" value="load" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
